@@ -1,0 +1,16 @@
+{
+  "name": "kata-projet-survie",
+  "version": "1.0.0",
+  "description": "kata projet survie pour le partiel", 
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Benoit Lavoine",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.6.0",
+    "sinon": "^18.0.0"
+  }
+}
